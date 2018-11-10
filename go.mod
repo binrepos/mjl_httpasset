@@ -1,1 +1,2 @@
-module bitbucket.org/mjl/httpasset
+module github.com/binrepos/mjl_httpasset
+
